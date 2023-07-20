@@ -11,5 +11,5 @@ El proyecto consistio en hacer una replica de la interfaz de Google, prestanto t
 *Footer: Acerca de, preferencias, publicidad, etc. (Infomacion adicional para el usuario)
 
 # 🔗Link al proyecto 
-Echale un ojo al proyecto terminado 👀 [Clonacion de Google](http://127.0.0.1:5500/index.html)
+Echale un ojo al proyecto terminado 👀 [Clonacion de Google](https://interfazdegoogle.netlify.app/)
 ![image](https://github.com/Moonblack95/Google--Clon/assets/139600701/cb1edb1d-9c67-4f7a-8386-4411a8a5746e)
