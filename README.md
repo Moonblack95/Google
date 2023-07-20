@@ -12,4 +12,6 @@ El proyecto consistio en hacer una replica de la interfaz de Google, prestanto t
 
 # 🔗Link al proyecto 
 Echale un ojo al proyecto terminado 👀 [Clonacion de Google](https://interfazdegoogle.netlify.app/)
-![image](https://github.com/Moonblack95/Google--Clon/assets/139600701/cb1edb1d-9c67-4f7a-8386-4411a8a5746e)
+
+![image](https://github.com/Moonblack95/google.html/assets/139600701/7fd4250f-43ef-4095-a49d-a56700f1fbdc)
+
